@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/solomon-gebremedhin-17b5251b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="solomon-gebremedhin" height="30" width="40" /></a>
 <a href="https://fb.com/sol.jahman.238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sol jah man" height="30" width="40" /></a>
 <a href="https://instagram.com/aaakesumaawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaakesumaawi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCk0-96sNZui1zijYcpZ72cA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="solomon gebre egziabher" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@solomongebreegziabher7622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="solomon gebre egziabher" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
