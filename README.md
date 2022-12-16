@@ -1,6 +1,6 @@
 [### Hi there 👋
 
-<https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FTheDudeThatCode%2FTheDudeThatCode%2Fmaster%2FAssets%2FDeveloper.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&tbnid=47chckvIQOvI5M&vet=12ahUKEwiswfiH1_37AhUCphoKHbJ0CCoQMygnegUIARDqAg..i&docid=CJdgcKdcN0j58M&w=243&h=177&q=animated%20coding%20gif&ved=2ahUKEwiswfiH1_37AhUCphoKHbJ0CCoQMygnegUIARDqAg
+
 **solomongegziabher/Solomongegziabher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
