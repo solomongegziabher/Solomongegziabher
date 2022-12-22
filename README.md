@@ -1,5 +1,5 @@
 [### Hi there 👋
-https://www.bing.com/images/search?view=detailV2&ccid=1PIWL8lB&id=CB44CA89F60E49B4B820FECBA8008CF84052B73A&thid=OIP.1PIWL8lBVVx3QELB0vhE8QHaE2&mediaurl=https%3a%2f%2fthumbs.dreamstime.com%2fz%2fprogramming-technology-concept-bright-glowing-circuit-coding-background-d-rendering-147291479.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d4f2162fc941555c774042c1d2f844f1%3frik%3dOrdSQPiMAKjL%252fg%26pid%3dImgRaw%26r%3d0&exph=1049&expw=1600&q=Technology+Programming&simid=607999681249702727&FORM=IRPRST&ck=DFC724AA6D0097D8AC2C2DDB097C3160&selectedIndex=9
+![image](https://user-images.githubusercontent.com/113886983/209129133-e79ec97b-ab6c-47fa-99b3-7f7cb9e5f833.png)
 
 **solomongegziabher/Solomongegziabher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
