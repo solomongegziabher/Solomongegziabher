@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/solomongeb1" target="blank"><img src="https://img.shields.io/twitter/follow/solomongeb1?logo=twitter&style=for-the-badge" alt="solomongeb1" /></a> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Programming languages**
 
 - 📫 How to reach me **sage.h22@gmail.com**
 
