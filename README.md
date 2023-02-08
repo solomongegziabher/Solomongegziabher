@@ -1,7 +1,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Software Engineering at ALX
 - 📫 How to reach me: sage.h22@gmail.com
 <h1 align="center">Hi 👋, I'm Solomon</h1>
 <h3 align="center">A passionate to learn to be frontend developer</h3>
