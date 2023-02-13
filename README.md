@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Software Engineering at ALX
 - 📫 How to reach me: sage.h22@gmail.com
 <h1 align="center">Hi 👋, I'm Solomon</h1>
-<h3 align="center">A passionate to learn to be frontend developer</h3>
+<h3 align="center">A passionate to learn Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomongegziabher&label=Profile%20views&color=0e75b6&style=flat" alt="solomongegziabher" /> </p>
 
