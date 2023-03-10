@@ -1,5 +1,7 @@
 
-Here are some ideas to get you started:
+emy
+
+I am a motivated, determined, and inquisitive software engineering student at Alx. I have an unbridled passion for technology, programming, and problem-solving that drives me to continuously learn and grow. I'm incredibly inspired by new challenges and enjoy pushing myself out of my comfort zone to reach the next level in my education. As a student at Alx, I'm focused on gaining advanced proficiency in software engineering principles so that I can be prepared to tackle any project with confidence.
 
 - 🌱 I’m currently learning Software Engineering at ALX
 - 📫 How to reach me: sage.h22@gmail.com
