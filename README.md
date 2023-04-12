@@ -37,9 +37,3 @@ I am a motivated, determined, and inquisitive software engineering student at Al
 ---
 [![](https://visitcount.itsvg.in/api?id=solomongegziabher&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomongegziabher&show_icons=true&locale=en&layout=compact" alt="solomongegziabher" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomongegziabher&show_icons=true&locale=en" alt="solomongegziabher" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomongegziabher&" alt="solomongegziabher" /></p>
-)
