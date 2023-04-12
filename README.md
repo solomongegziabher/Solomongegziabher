@@ -5,11 +5,9 @@ I am a motivated, determined, and inquisitive software engineering student at Al
 <h1 align="center">Hi 👋, I'm Solomon</h1>
 <h3 align="center">A passionate to learn Software Engineering</h3>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=solomongegziabher&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=solomongegziabher&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=solomongegziabher&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=solomongegziabher&label=Profile%20views&color=0e75b6&style=flat" alt="solomongegziabher" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomongegziabher" alt="solomongegziabher" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/solomongeb1" target="blank"><img src="https://img.shields.io/twitter/follow/solomongeb1?logo=twitter&style=for-the-badge" alt="solomongeb1" /></a> </p>
 
