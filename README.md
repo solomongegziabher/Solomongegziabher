@@ -6,7 +6,7 @@ I am a motivated, determined, and inquisitive software engineering student at Al
 <h3 align="center">A passionate to learn Software Engineering</h3>
 
 ## 🌐 Socials:
-[![Discord](discordapp.com/users/1057612369586569216)
+[![Discord]([discordapp.com/users/1057612369586569216](https://discord.gg/vyfBVfm7))
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/sol.jahman.238) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/aaakesumaawi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/solomon-gebreegziabher-17b5251b2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/solomongeb1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/c/solomongebreegziabher7622) 
 
 # 💻 Tech Stack:
